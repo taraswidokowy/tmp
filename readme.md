@@ -21,22 +21,6 @@ print(f"Dym i temperatura: {alarm_przeciwpozarowy(True, True)}") # False (możli
 ## Zadanie 2: Panel kontrolny (6 punktów)
 Napisz funkcję `wyswietl_stan_systemu()`, która pokaże działanie wszystkich modułów bezpieczeństwa w formie tabeli:
 
-```python
-def wyswietl_stan_systemu():
-    print("Czujnik1  Czujnik2  Ruch   Bezp.  AwariaSys  Ppoż")
-    print("-" * 55)
-    
-    for a in [False, True]:
-        for b in [False, True]:
-            print(f"{int(a):<9} {int(b):<9}", end=" ")
-            print(f"{int(czujnik_ruchu(a,b)):<7}", end=" ")
-            print(f"{int(drzwi_bezpieczne(a,b)):<7}", end=" ")
-            print(f"{int(wykryj_awarie(a)):<9}", end=" ")
-            print(f"{int(alarm_przeciwpozarowy(a,b))}")
-
-# Wywołanie:
-wyswietl_stan_systemu()
-```
 
 ## Zadanie 3: Inteligentny system antywłamaniowy (8 punktów)
 
