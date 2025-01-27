@@ -39,7 +39,7 @@ Wybierz dziedzinę sztuki wizualnej, w której czujesz się najpewniej. Może to
 * Typografia
 * Plakat
 * Grafika cyfrowa
-* Lub dowolna inna forma nietypowej ekspresji artystycznej ([origami / kirigami](https://galeria.szkolafotografii.pl/galeria/galeria-dyplomy-2017/krzysztof-majewski/), [gotowanie kliszy fotograficznej](https://www.lomography.com/magazine/265513-cook-your-film-and-create-crazy-effects) w zupie owocowej, [zdejmowanie warstwy emulsji polaroida](https://www.youtube.com/watch?v=j4g7eA5auyY&list=PLlf2vZmJJzOuZry9qV49c2AY0OivTGlEG&index=1) czy [hodowanie grzybów na odbitkach(https://medium.com/@lomography/seeing-the-beauty-of-destruction-in-seung-hwan-oh-s-impermanence-5f8e21c82c00)
+* Lub dowolna inna forma nietypowej ekspresji artystycznej ([origami / kirigami](https://galeria.szkolafotografii.pl/galeria/galeria-dyplomy-2017/krzysztof-majewski/), [gotowanie kliszy fotograficznej](https://www.lomography.com/magazine/265513-cook-your-film-and-create-crazy-effects) w zupie owocowej, [zdejmowanie warstwy emulsji polaroida](https://www.youtube.com/watch?v=j4g7eA5auyY&list=PLlf2vZmJJzOuZry9qV49c2AY0OivTGlEG&index=1) czy [hodowanie grzybów na odbitkach](https://medium.com/@lomography/seeing-the-beauty-of-destruction-in-seung-hwan-oh-s-impermanence-5f8e21c82c00)
 
 Ten element może być:
 
