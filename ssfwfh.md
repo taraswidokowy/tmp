@@ -80,7 +80,6 @@ Pamiętaj: szukamy nowych sposobów wyrazu, gdzie fotografia jest punktem wyjśc
 * Od 2 do 4 fotografii w projekcie
 * WAŻNE: Każda fotografia musi być przetworzona lub połączona z innym medium
 * Spójna koncepcja łącząca wszystkie trzy elementy
-* Dokumentacja procesu twórczego
 * Wyraźne wyjście poza czystą fotografię - pokaż, jak przekraczasz jej tradycyjne granice
 
 ## Wskazówki
