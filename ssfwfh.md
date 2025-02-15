@@ -31,20 +31,20 @@ Moodboard możesz wykonać:
 
 ## Część 2: Element pozafotograficzny
 
-Wybierz dziedzinę sztuki wizualnej, w której czujesz się najpewniej. Może to być:
+Wybierz dziedzinę sztuki wizualnej, w której czujesz się komfortowo. Może to być wszystko np:
 
 * Rzeźba
 * Malarstwo
 * Rysunek
 * Typografia
 * Plakat
-* Grafika cyfrowa
-* Lub dowolna inna forma nietypowej ekspresji artystycznej ([origami / kirigami](https://galeria.szkolafotografii.pl/galeria/galeria-dyplomy-2017/krzysztof-majewski/), [gotowanie kliszy fotograficznej](https://www.lomography.com/magazine/265513-cook-your-film-and-create-crazy-effects) w zupie owocowej, [zdejmowanie warstwy emulsji polaroida](https://www.youtube.com/watch?v=j4g7eA5auyY&list=PLlf2vZmJJzOuZry9qV49c2AY0OivTGlEG&index=1) czy [hodowanie grzybów na odbitkach](https://medium.com/@lomography/seeing-the-beauty-of-destruction-in-seung-hwan-oh-s-impermanence-5f8e21c82c00)
+* Grafika cyfrowa (a.k.a. Photoshop)
+* Lub dowolna inna forma nietypowej ekspresji artystycznej ([origami / kirigami](https://galeria.szkolafotografii.pl/galeria/galeria-dyplomy-2017/krzysztof-majewski/), [gotowanie kliszy fotograficznej](https://www.lomography.com/magazine/265513-cook-your-film-and-create-crazy-effects) w zupie owocowej, [zdejmowanie warstwy emulsji polaroida](https://www.youtube.com/watch?v=j4g7eA5auyY&list=PLlf2vZmJJzOuZry9qV49c2AY0OivTGlEG&index=1),  [hodowanie grzybów na odbitkach](https://medium.com/@lomography/seeing-the-beauty-of-destruction-in-seung-hwan-oh-s-impermanence-5f8e21c82c00) )
 
 Ten element może być:
 
-* Punktem wyjścia do projektu (np. rzeźba, którą później sfotografujesz)
-* Elementem końcowym (np. malarstwo na wydrukowanych zdjęciach)
+* Punktem wejścia tj. początkiem procesu twórczego projektu (np. rzeźba, którą później sfotografujesz)
+* punktem wyjścia (np. malarstwo na wydrukowanych zdjęciach, doczepione do finalnego zdjęcia elementy stworzone na np. szydełku )
 * Częścią procesu (np. łączenie fotografii z elementami rysunkowymi czy graficznymi, zarówno analogowo jak i cyfrowo)
 
 ## Część 3: Typ fotografii
@@ -65,21 +65,21 @@ Kluczowym założeniem jest wyjście poza czystą fotografię - same zdjęcia to
 
 1. Połączenia wszystkich trzech elementów w spójną całość:
    * Emocje i estetyka z moodboardu
-   * Wybrana dziedzina sztuki wizualnej
+   * Wybrana dziedzina pozafotograficznej sztuki wizualnej
    * Preferowany typ fotografii
 
 2. Przekroczenia granic klasycznej fotografii poprzez:
-   * Ingerencję w materiał fotograficzny (cyfrową lub analogową)
+   * Ingerencję w materiał fotograficzny (w sposób cyfrowy lub analogowy)
    * Łączenie fotografii z innymi mediami
    * Eksperymentowanie z formą i treścią
 
-Pamiętaj: szukamy nowych sposobów wyrazu, gdzie fotografia jest punktem wyjścia, ale nie końcem procesu twórczego.
+Pamiętaj: szukamy nowych sposobów wyrazu, gdzie wykonana fotografia nie jest końcem procesu twórczego, a jedynie częscią finalnej pracy artystycznej.
 
 ## Wymagania końcowe
 
 * Od 2 do 4 fotografii w projekcie
 * WAŻNE: Każda fotografia musi być przetworzona lub połączona z innym medium
-* Spójna koncepcja łącząca wszystkie trzy elementy
+* Spójna koncepcja łącząca wszystkie trzy elementy (moodboard, element pozafotograficzny i konkretny typ fotografii)
 * Wyraźne wyjście poza czystą fotografię - pokaż, jak przekraczasz jej tradycyjne granice
 
 ## Wskazówki
@@ -106,7 +106,7 @@ Lub w wersji z elementami cyfrowymi:
 
 ## Inspiracje
 
-Warto zapoznać się z pracami współczesnych artystów, którzy łączą różne media z fotografią. Szczególnie polecamy:
+Warto zapoznać się z pracami współczesnych artystów, którzy łączą różne media z fotografią. Kilka przykładów poniżej:
 
 ### Artyści z "Photography Is Magic" Charlotte Cotton:
 
