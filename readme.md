@@ -1,29 +1,145 @@
-# DPS PI Objectives - Rewritten
+## 1. Film Portra / Lifted Blacks
 
-## Zasada
-**Cel (Objective)** powinien odpowiadać na pytanie: *"Co osiągniemy i jaką wartość to przyniesie?"* zamiast *"Co zrobimy?"*
+### Jakie zdjęcie wybrać:
+Portret z wyraźnymi cieniami i ciemnym tłem. Boczne światło, ulica w cieniu, wnętrze z oknem.
+
+### Charakterystyka stylu:
+
+- **Naturalne, ciepłe tony skóry:** Film Kodak Portra słynie z pięknej reprodukcji odcieni skóry - ciepłych, naturalnych, pochlebnych.
+
+- **Miękki, niski kontrast:** Cienie nie są całkowicie czarne, ale stają się wyblakłe, szare lub lekko zabarwione (często delikatnym odcieniem cyjanu lub brązu). To nadaje obrazowi "filmowy" charakter.
+
+- **Ocieplona paleta barw:** Kolory są nasycone w naturalny, subtelny sposób (czyt. zmniejsz nasycenie :) ), z lekkim złotym zabarwieniem. Zielenie często przybierają odcień oliwkowy, a błękity są miękkie i lekko przesunięte w stronę cyjanu.
+
+- **Drobne ziarno (opcjonalnie):** Subtelna symulacja ziarna filmowego dodaje tekstury i organicznego charakteru.
+
+### Jak osiągnąć ten efekt:
+
+1. **Krzywa tonalna:** Podnieś dolny lewy punkt krzywej RGB w górę - najciemniejsze partie zdjęcia staną się jaśniejsze, matowe.
+
+2. **Balans bieli i kalibracja kolorów:** Ocieplenie obrazu + subtelna zmiana kanałów kolorów (np. przesunięcie niebieskiego w stronę cyjanu).
+
+3. **Redukcja kontrastu:** Zmniejsz ogólny kontrast,  lekkie ziarno w panelu efektów.
 
 ---
 
-## Przepisane PI Objectives
+## 2. Teal & Orange (styl kinowy)
 
-| # | Obecny PI Objective | Przepisany PI Objective |
-|---|---------------------|-------------------------|
-| 1 | Deliver the Alpha version of the mobile application with a temporary legacy MBP view prepared for future ONCE integration, so that internal stakeholders have a stable foundation for continued development in collaboration with the FIS Frontend team. | **Establish a validated mobile app foundation with legacy MBP compatibility so that FIS Frontend team can seamlessly continue ONCE integration development** |
-| 2 | Improve mobile boarding pass link handling with DBP so that customers have reliable access to their boarding passes and restored link tracking. | **Ensure reliable boarding pass accessibility so that customers can always retrieve their passes without friction** |
-| 3 | Improve and enhance the usability of the after-flight feedback by providing more optimized notifications | **Deliver timely post-flight notifications so that customers receive relevant feedback prompts even after cancellations or delays** |
-| 4 | Refactor analytics events to use the new naming style and run a spike to understand the full refactoring work for DPS, so that teams have clear and consistent analytics and know exactly what needs to be updated next. | **Achieve analytics consistency and predictability so that teams can make data-driven decisions with confidence** |
-| 5 | Provide Scandit scanning and image transfer support for ONCE so that business teams have | **Enable seamless document scanning and transfer so that business teams can process customer documents through ONCE** |
-| 6 | Enable push notifications with direct iCoupon links so that customers have a smoother experience and receive more helpful automated communication. | **Increase coupon engagement through contextual push notifications so that customers benefit from timely, personalized offers** |
-| 7 | Fix check-in deeplinks so that customers have the ability to check in for return flights even when outside the 24-hour connection window. | **Remove check-in barriers for return flights so that customers can complete check-in regardless of connection timing** |
-| 8 | Introduce LUCY for status-based baggage animations in the mobile app so that users have a clearer and more engaging view of their baggage journey. | **Provide real-time visual baggage tracking so that users feel informed and confident about their luggage status** |
-| 9 | Deliver the backend for APEX to show SEN and C/CL travelers premium airport services so that customers have clear access | **Surface premium airport services for status travelers so that SEN and C/CL customers have clear visibility of their benefits** |
-| 10 | Deploy the FIS API to switch so that teams have new data source | **Migrate to the new FIS data source so that OS, LH, and LX teams operate on unified, up-to-date flight information** |
-| 11 | Deliver the backend needed for the flash teaser so that teams have everything required to implement the flash teaser in the app. | **Prepare flash teaser data layer so that marketing teams can launch promotional content in the app** |
-| 12 | Move components to the new Azure space so that teams have a fully working Flight Monitor. | **Complete Flight Monitor migration so that teams have a stable, fully operational monitoring environment** |
-| 13 | Decommission the legacy Flight Status Page and remove all remaining CFI-based code to keep the codebase clean | **Retire legacy Flight Status infrastructure so that teams maintain a lean, sustainable codebase** |
-| 14 | Decommission the legacy Flight Status Page and remove remaining CFI-based code so that teams have a cleaner and easier-to-maintain codebase. | *(połączone z #13)* |
-| 15 | Run the Homepage Evolution Analysis so that teams have a clear view of how the homepage performs and where it can improve. | **Gain actionable homepage performance insights so that teams can prioritize high-impact improvements** |
-| 16 | Finalise the flash teaser content page component so that teams have a complete and ready-to-use element for upcoming homepage updates. | **Complete the flash teaser component so that CTI page updates can launch without blockers** |
+### Jakie zdjęcie wybrać:
+Ludzie (skóra → pomarańcz) + zimne tło. Portret przy morzu, osoba w mieście wieczorem, zachód słońca z postacią.
 
+### Charakterystyka stylu:
 
+- **Komplementarne kolory:** Turkus i pomarańcz są naprzeciwko siebie na kole barw, co tworzy silny kontrast wizualny.
+
+- **Skóra w ciepłych tonach:** Wszystkie odcienie skóry przesunięte mocno w stronę pomarańczy/złota.
+
+- **Zimne cienie i tła:** Wszystko co nie jest skórą (cienie, niebo, tła) przesunięte w stronę turkusu/cyjan.
+
+- **Mocny kontrast:** Ten look często łączy się z podbitym kontrastem.
+
+### Jak osiągnąć ten efekt:
+
+1. **Panel HSL - Hue:**
+   - Pomarańcze i żółcie → przesuń w stronę pomarańczy
+   - Niebieskie i cyjan → przesuń w stronę turkusu (aqua)
+
+2. **Panel HSL - Saturation:**
+   - Podbij saturację pomarańczy i turkusu
+   - Zmniejsz saturację pozostałych kolorów
+
+3. **Split Toning / Color Grading:**
+   - Shadows: zimny turkus
+   - Highlights: ciepły pomarańcz
+
+4. **Kontrast:** Podnieś kontrast lub użyj krzywej S
+
+---
+
+## 3. Moody / Dark & Desaturated
+
+### Jakie zdjęcie wybrać:
+Już dość kontrastowe, dramatyczne. Krajobraz z chmurami, portret z mocnym światłem kierunkowym, architektura.
+
+### Charakterystyka stylu:
+
+- **Niedoświetlenie:** Obraz jest celowo ciemniejszy niż "poprawnie" naświetlony.
+
+- **Ograniczona paleta kolorów:** Mało saturacji, ale nie czarno-białe. Kolory są przygaszone, stonowane.
+
+- **Zimna tonacja:** Dominują zimne odcienie, szczególnie w cieniach.
+
+- **Dramatyzm:** Mocne światłocienie, często winieta.
+
+### Jak osiągnąć ten efekt:
+
+1. **Podstawowe suwaki:**
+   - Exposure: -0.3 do -0.7
+   - Highlights: -30 do -50
+   - Shadows: bez zmian lub lekko w dół
+   - Saturation: -20 do -40
+
+2. **Balans bieli:** Przesuń temperaturę w stronę zimniejszej (w lewo)
+
+3. **Winieta:** Dodaj delikatną ciemną winietę w panelu efektów
+
+4. **Opcjonalnie:** Lekko podnieś czernie (Blacks +10) dla "matowego" efektu
+
+---
+
+## 4. Clean & Bright (styl lifestyle)
+
+### Jakie zdjęcie wybrać:
+Zdjęcie w świetle dziennym, dużo jasnych powierzchni. Wnętrza, flat lay, portret przy oknie, kawiarnia.
+
+### Charakterystyka stylu:
+
+- **Jasność i lekkość:** Obraz jest prześwietlony /  pełen światła.
+
+- **Płaskie cienie:** Cienie są mocno rozjaśnione, brak głębokich czerni.
+
+- **Niska saturacja lub pastelowe kolory:** Kolory są delikatne, nie krzykliwe.
+
+- **Ciepła lub neutralna tonacja:** Często lekko ocieplone, ale nie pomarańczowe.
+
+### Jak osiągnąć ten efekt:
+
+1. **Podstawowe suwaki:**
+   - Exposure: +0.3 do +0.7
+   - Shadows: +40 do +60
+   - Highlights: -20 do -40 (żeby nie wypalić)
+   - Whites: +10 do +30
+   - Contrast: -10 do -20
+
+2. **Balans bieli:** Lekko cieplejszy
+
+3. **Krzywa tonalna:** Można lekko podnieść cienie (dolna część krzywej)
+
+4. **Saturation:** Neutralnie lub lekko w dół
+
+---
+
+## 5. Selective Color (wybiórczy kolor)
+
+### Jakie zdjęcie wybrać:
+Zdjęcie gdzie jeden kolor mocno wyróżnia się na tle reszty. Czerwona sukienka, żółta taksówka, zielone drzwi, pomarańczowy parasol.
+
+### Charakterystyka stylu:
+
+- **Jeden element kolorowy:** Cała reszta zdjęcia jest czarno-biała lub mocno desaturowana.
+
+- **Silny akcent wizualny:** Kolor przyciąga uwagę, staje się punktem centralnym.
+
+- **Kontrast kolorystyczny:** Im bardziej izolowany kolor w kadrze, tym lepszy efekt.
+
+### Jak osiągnąć ten efekt:
+
+**Opcja 1 - Lightroom (HSL):**
+1. Panel HSL -> Saturation
+2. Wszystkie kolory na -100 OPRÓCZ wybranego
+3. Wybrany kolor zostaw na 0 lub lekko podbij
+
+**Opcja 2 - Photoshop:**
+1. Dodaj warstwę dopasowania Black & White
+2. Dodaj maskę warstwy
+3. Czarnym pędzlem zamaluj obszar, który ma pozostać kolorowy
